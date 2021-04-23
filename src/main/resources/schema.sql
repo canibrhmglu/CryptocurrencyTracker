@@ -1,0 +1,13 @@
+DROP TABLE IF EXISTS cryptocurrency;
+
+CREATE TABLE cryptocurrency (
+id VARCHAR(250),
+type VARCHAR(20),
+rank VARCHAR(250) NOT NULL,
+symbol VARCHAR(250) NOT NULL,
+marketCapUsd VARCHAR(250) NOT NULL,
+priceUsd VARCHAR(250) NOT NULL,
+changePercent24Hr VARCHAR(250) NOT NULL,
+website VARCHAR(250) NOT NULL,
+createdDate TIMESTAMP
+);
