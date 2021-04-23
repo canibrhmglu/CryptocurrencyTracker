@@ -14,8 +14,8 @@ It is an application for tracking cryptocurrencies data.
 
 - Coincap public api(api.coincap.io/) is used to track any cryptocurrency.
 - As a cryptocurrency, only FUN token is chosen. The main reason to choose is that The FUN Token is an asset developed specifically for the online gambling and gaming industry.
-- Coincap Api is called once in 10 second and it is stored to H2 DB.
-- By requesting "/cryptoCurrencies" Api, the last 10 entries can be seen.
+- Coincap Api is called once in 10 seconds and it is stored to H2 DB.
+- By requesting "/cryptocurrencies" Api, the last 10 entries can be seen.
 
 
 ### **Run Application**
