@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.gamesys</groupId>
-	<artifactId>task</artifactId>
+	<artifactId>cryptocurrencytracker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>task</name>
-	<description>Case project for Spring Boot</description>
+	<name>CryptocurrencyTracker</name>
+	<description>Cryptocurrency Tracker Application</description>
 
 	<build>
 		<plugins>
@@ -46,6 +46,7 @@
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
+			<version>1.18.20</version>
 			<optional>true</optional>
 		</dependency>
 

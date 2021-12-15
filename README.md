@@ -1,4 +1,4 @@
-# **Cryptocurrency Tracker Task**
+# **Cryptocurrency Tracker**
 It is an application for tracking cryptocurrencies data.
 
 ### **Technologies**
